@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="table25" language="en" table="sn_anjanaapp20_table26">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>table25</label>
+            <language>en</language>
+            <name>sn_anjanaapp20_table26</name>
+            <plural>table25s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-15 22:30:47</sys_created_on>
+            <sys_id>6f3d58fa531200104fbcddeeff7b126c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table25</sys_name>
+            <sys_package display_value="anjanaapp20" source="sn_anjanaapp20">b8c6fba2531200104fbcddeeff7b12b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="anjanaapp20">b8c6fba2531200104fbcddeeff7b12b3</sys_scope>
+            <sys_update_name>sys_documentation_sn_anjanaapp20_table26__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-15 22:30:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
