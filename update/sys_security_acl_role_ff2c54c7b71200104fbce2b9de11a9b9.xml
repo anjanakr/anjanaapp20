@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 17:04:38</sys_created_on>
+        <sys_id>ff2c54c7b71200104fbce2b9de11a9b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_anjanaapp20_table44.sn_anjanaapp20.table44_user</sys_name>
+        <sys_package display_value="anjanaapp20" source="sn_anjanaapp20">b8c6fba2531200104fbcddeeff7b12b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="anjanaapp20">b8c6fba2531200104fbcddeeff7b12b3</sys_scope>
+        <sys_security_acl display_value="sn_anjanaapp20_table44">732c54c7b71200104fbce2b9de11a9b6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ff2c54c7b71200104fbce2b9de11a9b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 17:04:38</sys_updated_on>
+        <sys_user_role display_value="sn_anjanaapp20.table44_user" name="sn_anjanaapp20.table44_user">f32c54c7b71200104fbce2b9de11a99f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
